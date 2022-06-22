@@ -1,0 +1,19 @@
+{
+  "name": "estrella-photo-and-video",
+  "version": "1.0.0",
+  "description": "website for estrella photo and video ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/christianzunalargo2/estrella-photo-video.git"
+  },
+  "author": "Christian Zuna-Largo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianzunalargo2/estrella-photo-video/issues"
+  },
+  "homepage": "https://github.com/christianzunalargo2/estrella-photo-video#readme"
+}
